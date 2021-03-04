@@ -1,5 +1,5 @@
 # pcr-rank_data
-## 由于Action的原因移到至[ColdThunder11/pcr-rank_data](https://github.com/ColdThunder11/pcr-rank_data)
+## 由于Action的原因移至[ColdThunder11/pcr-rank_data](https://github.com/ColdThunder11/pcr-rank_data)
 适用于pcr-rank插件的rank表数据，由于插件作者不一定有空随时更新欢迎各位在有新数据时一起更新以及添加更多的更新源。   
 
 更新时请尽量按照原有命名格式更新且不要使用原有文件名以防止go-cqhttp只使用原有缓存。    
