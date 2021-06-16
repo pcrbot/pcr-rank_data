@@ -1,0 +1,49 @@
+{
+    "ranks":{
+        "channels":{
+            "stable":{
+                "cn":[
+                    {
+                        "name" : "席巴鸽",
+                        "route" : "cn/xbg"
+                    },
+                    {
+                        "name":"FF半音",
+                        "route":"cn/ffby"
+                    }
+                ],
+                "tw":[
+                    {
+                        "name" : "漪梦奈特",
+                        "route" : "tw/ymnt"
+                    },
+                    {
+                        "name" : "无羽",
+                        "route" : "tw/wy"
+                    }
+                ],
+                "jp":[
+                    {
+                        "name" : "森佬",
+                        "route" : "jp/sl"
+                    }
+                ]
+            },
+            "auto_update":{
+                "cn":[
+                    {
+                        "name" : "席巴鸽",
+                        "route" : "cn/xbg"
+                    },
+                    {
+                        "name":"FF半音",
+                        "route":"cn/ffby"
+                    }
+                ],
+                "tw":[],
+                "jp":[]
+            }
+        }
+    }
+
+}

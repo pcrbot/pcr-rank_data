@@ -1,0 +1,7 @@
+{
+    "mid": 14454663,
+    "last_check_id": 11521761,
+    "title_re": "(.*)月Rank(.*)推荐表",
+    "rank_name_pos": 2,
+    "notice_template": "表格仅供参考\n※不定期搬运自B站专栏\n※制作by席巴鸽\n本源为爬虫自动更新\nrank{$rank}表："
+}
