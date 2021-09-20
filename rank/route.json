@@ -10,6 +10,10 @@
                     {
                         "name":"FF半音",
                         "route":"cn/ffby"
+                    },
+                    {
+                        "name":"樱花铁道之夜",
+                        "route":"cn/yhtd"
                     }
                 ],
                 "tw":[
@@ -38,10 +42,6 @@
                     {
                         "name":"FF半音",
                         "route":"cn/ffby"
-                    },
-                    {
-                        "name":"樱花铁道之夜",
-                        "route":"cn/yhtd"
                     }
                 ],
                 "tw":[],
