@@ -1,9 +1,18 @@
 {
+<<<<<<< HEAD
     "notice": "表格仅供参考\n※不定期搬运自Youtube\n※制作by漪夢奈特\nR21-3 rank表：",
     "files": [
         "21-3_1.png",
         "21-3_2.png",
         "21-3_3.png",
         "21-3_4.png"
+=======
+    "notice": "表格仅供参考\n※不定期搬运自Youtube\n※制作by漪夢奈特\nR21-4 rank表：",
+    "files":[
+        "21-4_1.png",
+        "21-4_2.png",
+        "21-4_3.png",
+        "21-4_4.png"
+>>>>>>> update tw 21-4
     ]
 }
