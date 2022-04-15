@@ -26,6 +26,10 @@
                     {
                         "name": "青空·架夜",
                         "route": "cn/qkjy"
+                    },
+                    {
+                        "name": "花舞组",
+                        "route": "cn/hw"
                     }
                 ],
                 "tw": [
