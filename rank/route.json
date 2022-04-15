@@ -22,6 +22,10 @@
                     {
                         "name": "放学后茶会",
                         "route": "cn/fxhch"
+                    },
+                    {
+                        "name": "青空·架夜",
+                        "route": "cn/qkjy"
                     }
                 ],
                 "tw": [
